@@ -5,3 +5,4 @@ ignore this
 ignore this
 foo
 foo
+foo
